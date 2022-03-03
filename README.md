@@ -9,4 +9,4 @@
 
 <li><a href='https://public.tableau.com/views/HR_AnalysisReport_CompanyX/HR_Analysis?:language=pt-BR&:display_count=n&:origin=viz_share_link'>HR Analysis Report</a></li>
 
-<li><a href='https://public.tableau.com/views/AccountsReceivable_16463225078900/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link'>HR Accounts Receivable</a></li>
+<li><a href='https://public.tableau.com/views/AccountsReceivable_16463225078900/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link'>Accounts Receivable</a></li>
