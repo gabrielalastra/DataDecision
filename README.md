@@ -14,4 +14,6 @@
 
 <li><a href='https://public.tableau.com/views/SalesAgentAnalytics_16466646350510/SalesAgentDashboard?:language=pt-BR&:display_count=n&:origin=viz_share_link'>Sales Agent Analytics</a></li>
 
+<li><a href='https://public.tableau.com/views/AccountsReceivable_16463225078900/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link'>Accounts Receivable</a></li>
+
 
