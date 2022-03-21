@@ -13,4 +13,4 @@
 
 <li><a href='https://public.tableau.com/views/AccountsReceivable_16463225078900/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link'>Accounts Receivable</a> | <a href='https://github.com/gabrielalastra/AccountsReceivable'>Project</a></li>
 
-
+<li><a href='https://public.tableau.com/shared/4D9PQZR3Y?:display_count=n&:origin=viz_share_link'>Shipping Analysis</a> | <a href='https://github.com/gabrielalastra/Shipping_Analysis'>Project</a></li>
